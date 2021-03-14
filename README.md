@@ -1,1 +1,1 @@
-# m2-airtable-bfc
+# Magento ver. 2.3.5-p1 Integration with Airtable
